@@ -1,2 +1,2 @@
-# Space-Cat-App-Frontend-
-Frontend for Space Cat App using ReactNative for both Web View and  App View
+# Catnip-Frontend
+Frontend for Catnip App using ReactNative for both Web View and  App View
